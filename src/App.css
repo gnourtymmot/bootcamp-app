@@ -7,6 +7,20 @@
   pointer-events: none;
 }
 
+.directory-image {
+  width: 170px;
+  border-radius: 10px;
+}
+
+.directory-entry {
+  background-color:rgb(126,175,212);
+  border-radius: 5px;
+}
+
+.directory-button {
+  background-color: rgb(43,10,61);
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
